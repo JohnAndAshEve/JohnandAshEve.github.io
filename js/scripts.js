@@ -187,7 +187,7 @@ $(document).ready(function () {
             title: "John and Ashley's Wedding",
 
             // Event start date
-            start: new Date('Apr 30, 2023 12:00'),
+            start: new Date('Apr 30, 2023 18:30'),
 
             // Event duration (IN MINUTES)
             // duration: 120,
